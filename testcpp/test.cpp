@@ -9,11 +9,7 @@
 #include <vector>
 #include <algorithm>
 
-
-   
 #include <stdarg.h> 
-
-
 
 #include "test.h"
 
